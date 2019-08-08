@@ -7,5 +7,5 @@ Adapter include reset button and UART header for debuging.
 
 ## Things you need:
  * STM32 Nucleo programmer (https://jeelabs.org/book/1547a/)
- * RJ-12 conn to Tag connect 2030 (https://www.digikey.com/product-detail/en/microchip-technology/TC2030-MCP-NL/TC2030-MCP-NL-ND/2125388)
- * IDC 6 pin conn to Tag connect 2030 (https://www.digikey.com/product-detail/en/tag-connect-llc/TC2030-IDC/TC2030-IDC-ND/4571121)
+ * RJ-12 conn to Tag connect 2030 cabel (https://www.digikey.com/product-detail/en/microchip-technology/TC2030-MCP-NL/TC2030-MCP-NL-ND/2125388)
+ * IDC 6 pin conn to Tag connect 2030 cabel (https://www.digikey.com/product-detail/en/tag-connect-llc/TC2030-IDC/TC2030-IDC-ND/4571121)
